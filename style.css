@@ -1,4 +1,7 @@
 body{
     background-color: black;
-    color: rgb(218, 11, 0);
+    color: rgb(227, 11, 0);
+    .bio {
+        color: rgb(255, 34, 0)
+    }
 }
